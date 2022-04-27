@@ -1,0 +1,7 @@
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\Simple String Calculator\Simple String Calculator\bin\Debug\Simple String Calculator.exe.config
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\Simple String Calculator\Simple String Calculator\bin\Debug\Simple String Calculator.exe
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\Simple String Calculator\Simple String Calculator\bin\Debug\Simple String Calculator.pdb
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\Simple String Calculator\Simple String Calculator\obj\Debug\Simple String Calculator.csproj.AssemblyReference.cache
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\Simple String Calculator\Simple String Calculator\obj\Debug\Simple String Calculator.csproj.CoreCompileInputs.cache
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\Simple String Calculator\Simple String Calculator\obj\Debug\Simple String Calculator.exe
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\Simple String Calculator\Simple String Calculator\obj\Debug\Simple String Calculator.pdb
